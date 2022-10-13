@@ -1,4 +1,4 @@
-#Matrix Visualization for Graphical Terminology Definition Generation Data
+# Matrix Visualization for Graphical Terminology Definition Generation Data
 
 Even though graph neural networks show promising results in definition generation, understanding node relationships and visualizing patterns is challenging in graph structure due to its high complexity.
 
